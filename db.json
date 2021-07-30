@@ -1,0 +1,107 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "fullname": "johnry atienza",
+            "email": "johnry@gmail.com",
+            "password": "123"
+        }
+    ],
+    "blog": [
+        {
+            "userId": 1,
+            "id": 1,
+            "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+            "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+          },
+          {
+            "userId": 1,
+            "id": 2,
+            "title": "qui est esse",
+            "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
+          },
+          {
+            "userId": 1,
+            "id": 3,
+            "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
+            "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
+          }
+    ],
+    "gallery": [
+        {
+            "id": 1,
+            "userId": 1,
+            "title": "quidem molestiae enim"
+          },
+          {
+            "id": 2,
+            "userId": 1,
+            "title": "sunt qui excepturi placeat culpa"
+          }
+    ],
+    "photos": [
+        {
+            "id": 1,
+            "galleryId": 1,
+            "title": "accusamus beatae ad facilis cum similique qui sunt",
+            "url": "https://via.placeholder.com/600/92c952",
+            "thumbnailUrl": "https://via.placeholder.com/150/92c952"
+          },
+          {
+            "id": 2,
+            "galleryId": 1,
+            "title": "reprehenderit est deserunt velit ipsam",
+            "url": "https://via.placeholder.com/600/771796",
+            "thumbnailUrl": "https://via.placeholder.com/150/771796"
+          },
+          {
+            "id": 3,
+            "galleryId": 1,
+            "title": "officia porro iure quia iusto qui ipsa ut modi",
+            "url": "https://via.placeholder.com/600/24f355",
+            "thumbnailUrl": "https://via.placeholder.com/150/24f355"
+          },
+          {
+            "id": 4,
+            "galleryId": 1,
+            "title": "culpa odio esse rerum omnis laboriosam voluptate repudiandae",
+            "url": "https://via.placeholder.com/600/d32776",
+            "thumbnailUrl": "https://via.placeholder.com/150/d32776"
+          },
+          {
+            "id": 5,
+            "galleryId": 1,
+            "title": "natus nisi omnis corporis facere molestiae rerum in",
+            "url": "https://via.placeholder.com/600/f66b97",
+            "thumbnailUrl": "https://via.placeholder.com/150/f66b97"
+          },
+          {
+            "id": 6,
+            "galleryId": 1,
+            "title": "accusamus ea aliquid et amet sequi nemo",
+            "url": "https://via.placeholder.com/600/56a8c2",
+            "thumbnailUrl": "https://via.placeholder.com/150/56a8c2"
+          },
+          {
+            "id": 51,
+            "galleryId": 2,
+            "title": "non sunt voluptatem placeat consequuntur rem incidunt",
+            "url": "https://via.placeholder.com/600/8e973b",
+            "thumbnailUrl": "https://via.placeholder.com/150/8e973b"
+          },
+          {
+            "id": 52,
+            "galleryId": 2,
+            "title": "eveniet pariatur quia nobis reiciendis laboriosam ea",
+            "url": "https://via.placeholder.com/600/121fa4",
+            "thumbnailUrl": "https://via.placeholder.com/150/121fa4"
+          },
+          {
+            "id": 53,
+            "galleryId": 2,
+            "title": "soluta et harum aliquid officiis ab omnis consequatur",
+            "url": "https://via.placeholder.com/600/6efc5f",
+            "thumbnailUrl": "https://via.placeholder.com/150/6efc5f"
+          }
+    ]
+}
