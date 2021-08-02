@@ -31,11 +31,13 @@
         {
             "id": 1,
             "userId": 1,
+            "blogId": 1,
             "title": "quidem molestiae enim"
           },
           {
             "id": 2,
             "userId": 1,
+            "blogId": 2,
             "title": "sunt qui excepturi placeat culpa"
           }
     ],
