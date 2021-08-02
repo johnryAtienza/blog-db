@@ -104,6 +104,13 @@
             "title": "soluta et harum aliquid officiis ab omnis consequatur",
             "url": "https://via.placeholder.com/600/6efc5f",
             "thumbnailUrl": "https://via.placeholder.com/150/6efc5f"
+          },
+          {
+            "id": 54,
+            "galleryId": 2,
+            "title": "Sample",
+            "url": "https://image.shutterstock.com/image-vector/sample-stamp-round-grunge-sign-260nw-1449476966.jpg",
+            "thumbnailUrl": "https://image.shutterstock.com/image-vector/sample-stamp-round-grunge-sign-260nw-1449476966.jpg"
           }
     ]
 }
